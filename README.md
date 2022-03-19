@@ -1,10 +1,8 @@
-# gulshan_api
+# APi
 
 **Setup**
 
-```bash
-# Clone the repository and then move to the repository 
-cd ../server
+
 
 # Install dependencies
 npm install
